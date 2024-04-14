@@ -1172,6 +1172,11 @@
     color: var(--bs-primary);
 }
 
+body {
+    padding: 0;
+    margin: 0;
+}
+
 /*** Footer End ***/
 
 /*** copyright Start ***/
